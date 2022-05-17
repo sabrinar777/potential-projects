@@ -1,0 +1,40 @@
+body{
+    border: solid;
+    margin: 5px;
+    padding: 10px;
+    padding: 20px;
+}
+#div1 {
+    position: relative;
+    width: 1000px;
+    height: 700px;
+    border: 3px solid #73AD21;
+    background-color: beige;
+}
+h2 { 
+    color: blue;
+    font-family:  cursive; 
+    border: solid;
+    margin: 2px;
+    padding: 5px;
+    padding: 10px;
+}
+p { 
+    color: red;
+    font-family: sans-serif; 
+    border: solid;
+    margin: 1px;
+    padding: 2px;
+    padding: 5px;
+}
+#list1{
+    color: green;
+}
+img {
+    position: relative;
+    width: 250px;
+    height: 300px;
+}
+.center {
+  text-align: center;
+}
